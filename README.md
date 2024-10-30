@@ -4,7 +4,7 @@ Data Quality Assessment
 
 Assessment of data quality and completeness in preparation for analysis
 
-Here is the background information on your task
+Background information:
 
 Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organization, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
 
@@ -16,7 +16,7 @@ However, in order to support the analysis, you speak to the Associate Director f
 
 You decide to start the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
 
-Here is your task:
+Task:
 
 Draft an email to the client identifying the data quality issues and strategies to mitigate these issues. Refer to ‘Data Quality Framework Table’ and resources below for criteria and dimensions which you should consider.
 
@@ -29,7 +29,7 @@ Sprocket Central Pty Ltd has given us a new list of 1000 potential customers wit
 
 The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
 
-Here is your task
+Task:
 
 For context, Sprocket Central Pty Ltd is a long-standing KPMG client whom specialises in high-quality bikes and accessible cycling accessories to riders. Their marketing team is looking to boost business by analysing their existing customer dataset to determine customer trends and behaviour. 
 
@@ -46,12 +46,12 @@ Data Insights and Presentation
 
 Using visualisations to present insights
 
-Here is the background information on your task
+Background information:
 
 The client is happy with the analysis plan and would like us to proceed.  After building the model we need to present our results back to the client. 
 
 Visualisations such as interactive dashboards often help us highlight key findings and convey our ideas in a more succinct manner. A list of customers or algorithm won’t cut it with the client, we need to support our results with the use of visualisations
 
-Here is your task
+Task:
 
 Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance).  Maximum of 3 dashboard views/tabs, creativity in layout and presentation is welcome.  
